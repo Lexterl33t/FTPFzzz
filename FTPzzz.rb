@@ -1,16 +1,3 @@
-=begin
-
-Flemme decrire en anglais bienvenue dans cette nouvelle vidéo aujourd'hui nous allons développer un fuzzer FTP
-
-FUZZER
-    un fuzzer c'est un programme qui va tester la provenance de vulnerabilité en envoyant de la data dans un protocole ou encore dans un binaire afin
-    de voir ce qui ce produit tout simplement alors on va simplement nous envoyer de la data donc un buffer mais nous verifierons pas si celui ci crash
-
-
-[ CONCEPTION ]
-
-    
-=end
 
 require 'colorize'
 require 'open-uri'
